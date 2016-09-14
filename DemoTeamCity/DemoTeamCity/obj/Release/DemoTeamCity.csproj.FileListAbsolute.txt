@@ -1,0 +1,14 @@
+c:\users\test-pc\documents\visual studio 2015\Projects\DemoTeamCity\DemoTeamCity\bin\Release\DemoTeamCity.dll
+c:\users\test-pc\documents\visual studio 2015\Projects\DemoTeamCity\DemoTeamCity\bin\Release\DemoTeamCity.pdb
+c:\users\test-pc\documents\visual studio 2015\Projects\DemoTeamCity\DemoTeamCity\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\test-pc\documents\visual studio 2015\Projects\DemoTeamCity\DemoTeamCity\bin\Release\Mono.Cecil.dll
+c:\users\test-pc\documents\visual studio 2015\Projects\DemoTeamCity\DemoTeamCity\bin\Release\Mono.Cecil.Mdb.dll
+c:\users\test-pc\documents\visual studio 2015\Projects\DemoTeamCity\DemoTeamCity\bin\Release\Mono.Cecil.Pdb.dll
+c:\users\test-pc\documents\visual studio 2015\Projects\DemoTeamCity\DemoTeamCity\bin\Release\Mono.Cecil.Rocks.dll
+c:\users\test-pc\documents\visual studio 2015\Projects\DemoTeamCity\DemoTeamCity\bin\Release\nunit.engine.api.dll
+c:\users\test-pc\documents\visual studio 2015\Projects\DemoTeamCity\DemoTeamCity\bin\Release\nunit.engine.dll
+c:\users\test-pc\documents\visual studio 2015\Projects\DemoTeamCity\DemoTeamCity\bin\Release\nunit.framework.dll
+c:\users\test-pc\documents\visual studio 2015\Projects\DemoTeamCity\DemoTeamCity\bin\Release\NUnit3.TestAdapter.dll
+c:\users\test-pc\documents\visual studio 2015\Projects\DemoTeamCity\DemoTeamCity\bin\Release\nunit.framework.xml
+c:\users\test-pc\documents\visual studio 2015\Projects\DemoTeamCity\DemoTeamCity\obj\Release\DemoTeamCity.dll
+c:\users\test-pc\documents\visual studio 2015\Projects\DemoTeamCity\DemoTeamCity\obj\Release\DemoTeamCity.pdb
